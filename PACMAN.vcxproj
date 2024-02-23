@@ -132,7 +132,7 @@
     <ClInclude Include="contador_de_vidas.h" />
     <ClInclude Include="escenario.h" />
     <ClInclude Include="fantasmas.h" />
-    <ClInclude Include="frutas.h" />
+    <ClInclude Include="gesto_de_vida.h" />
     <ClInclude Include="Pacman.h" />
     <ClInclude Include="regenerador_de_fantasmas.h" />
   </ItemGroup>
@@ -142,7 +142,7 @@
     <ClCompile Include="contador_de_vidas.cpp" />
     <ClCompile Include="escenario.cpp" />
     <ClCompile Include="fantasmas.cpp" />
-    <ClCompile Include="frutas.cpp" />
+    <ClCompile Include="gesto_de_vida.cpp" />
     <ClCompile Include="Pacman.cpp" />
     <ClCompile Include="PRINCIPAL.cpp" />
     <ClCompile Include="regenerador_de_fantasmas.cpp" />

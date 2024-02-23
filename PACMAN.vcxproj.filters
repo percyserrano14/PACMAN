@@ -36,10 +36,10 @@
     <ClCompile Include="regenerador_de_fantasmas.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="frutas.cpp">
+    <ClCompile Include="PRINCIPAL.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="PRINCIPAL.cpp">
+    <ClCompile Include="gesto_de_vida.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
@@ -65,7 +65,7 @@
     <ClInclude Include="regenerador_de_fantasmas.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="frutas.h">
+    <ClInclude Include="gesto_de_vida.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
